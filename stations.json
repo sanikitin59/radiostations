@@ -1,0 +1,70 @@
+[
+  {
+    "name": "Поп",
+    "stations": [
+      {
+        "id": "1",
+        "name": "Europa Plus",
+        "streamUrl": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3",
+        "genre": "Pop"
+      },
+      {
+        "id": "2",
+        "name": "DFM",
+        "streamUrl": "https://icecast.radiodfm.ru:8000/dfm.mp3",
+        "genre": "Dance"
+      }
+    ]
+  },
+  {
+    "name": "Рок",
+    "stations": [
+      {
+        "id": "3",
+        "name": "Наше Радио",
+        "streamUrl": "https://nashe.streamr.ru/nashe-128.mp3",
+        "genre": "Rock"
+      },
+      {
+        "id": "4",
+        "name": "Maximum",
+        "streamUrl": "https://maximum.hostingradio.ru/maximum128.mp3",
+        "genre": "Rock"
+      }
+    ]
+  },
+  {
+    "name": "Электроника",
+    "stations": [
+      {
+        "id": "5",
+        "name": "Record",
+        "streamUrl": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+        "genre": "Dance"
+      },
+      {
+        "id": "6",
+        "name": "Relax FM",
+        "streamUrl": "https://relaxfm.hostingradio.ru/relaxfm96.aacp",
+        "genre": "Relax"
+      }
+    ]
+  },
+  {
+    "name": "Русское",
+    "stations": [
+      {
+        "id": "7",
+        "name": "Русское Радио",
+        "streamUrl": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+        "genre": "Русская музыка"
+      },
+      {
+        "id": "8",
+        "name": "Дорожное Радио",
+        "streamUrl": "https://dorognoe.hostingradio.ru/dorognoe96.aacp",
+        "genre": "Русская музыка"
+      }
+    ]
+  }
+]
