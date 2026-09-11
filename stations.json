@@ -7,6 +7,7 @@
         "name": "Europa Plus",
         "streamUrl": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3",
         "genre": "Pop"
+		"logoUrl": "https://raw.githubusercontent.com/sanikitin59/radio-logos/main/europaplus.png"
       },
 	  {
         "id": "2",
@@ -55,28 +56,61 @@
     "stations": [
       {
         "id": "7",
-        "name": "Русское Радио",
-        "streamUrl": "https://rusradio.hostingradio.ru/rusradio96.aacp",
+        "name": "Старый портфель",
+        "streamUrl": "https://lk.castnow.ru:8100/oldbrief-320.mp3",
         "genre": "Русская музыка"
       },
       {
         "id": "8",
-        "name": "Дорожное Радио",
-        "streamUrl": "https://dorognoe.hostingradio.ru/radio",
-        "genre": "Русская музыка"
-      },
-	        {
-        "id": "9",
         "name": "Всесоюзное радио",
         "streamUrl": "https://stream.cassiopeia-station.ru:1045/stream",
         "genre": "Русская музыка"
       },
+	        {
+        "id": "9",
+        "name": "Дорожное радио",
+        "streamUrl": "https://dorognoe.hostingradio.ru/radio",
+        "genre": "Русская музыка"
+      },
       {
         "id": "10",
-        "name": "Старый портфель",
-        "streamUrl": "https://lk.castnow.ru:8100/oldbrief-320.mp3",
+        "name": "Европа плюс",
+        "streamUrl": "https://radio.promedia.ru/europa-alushta",
         "genre": "Русская музыка"
-      }
+		"logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/europaplus.png"
+      },
+	  
+	  {
+        "id": "11",
+        "name": "Радио Ретро FM",
+        "streamUrl": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3",
+        "genre": "Русская музыка"
+      },
+	  {
+        "id": "12",
+        "name": "Радио Record",
+        "streamUrl": "https://air.unmixed.ru/record320",
+        "genre": "Русская музыка"
+      },
+	  {
+        "id": "13",
+        "name": "Радио Эрмитаж",
+        "streamUrl": "https://rusradio.hostingradio.ru/hermitage128.mp3",
+        "genre": "Русская музыка"
+      },
+	  {
+        "id": "14",
+        "name": "Радио Зенит",
+        "streamUrl": "https://go-audio.toya.net.pl/269",
+        "genre": "Русская музыка"
+      },
+	  {
+        "id": "10",
+        "name": "Наше Радио",
+        "streamUrl": "https://nashe.streamr.ru/nashe-128.mp3",
+        "genre": "Русская музыка"
+      },
+	  
     ]
   }
 ]
