@@ -7,7 +7,7 @@
         "name": "Europa Plus",
         "streamUrl": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3",
         "genre": "Pop",
-		    "logoUrl": "https://raw.githubusercontent.com/sanikitin59/radio-logos/main/europaplus.png"
+		"logoUrl": "https://raw.githubusercontent.com/sanikitin59/radio-logos/main/europaplus.png"
       },
 	  {
         "id": "2",
@@ -26,14 +26,14 @@
         "name": "Радио Ретро FM",
         "streamUrl": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3",
         "genre": "Rock",
-		  "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png"
+		"logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png"
       },
       {
         "id": "4",
         "name": "Maximum",
         "streamUrl": "https://maximum.hostingradio.ru/maximum128.mp3",
         "genre": "Rock",
-		  "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png"
+		"logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png"
       }
     ]
   },
@@ -44,14 +44,15 @@
         "id": "5",
         "name": "Record",
         "streamUrl": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
-		  "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png",
+		"logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png",
         "genre": "Dance"
       },
       {
         "id": "6",
         "name": "Радио Эрмитаж",
         "streamUrl": "https://rusradio.hostingradio.ru/hermitage128.mp3",
-        "genre": "Relax"
+        "genre": "Relax",
+		"logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png"
       }
     ]
   },
@@ -62,27 +63,29 @@
         "id": "7",
         "name": "Старый портфель",
         "streamUrl": "https://lk.castnow.ru:8100/oldbrief-320.mp3",
-        "genre": "Русская музыка"
+        "genre": "Русская музыка",
+		"logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/staryjportfel.png"
       },
       {
         "id": "8",
         "name": "Всесоюзное радио",
         "streamUrl": "https://stream.cassiopeia-station.ru:1045/stream",
         "genre": "Русская музыка",
-		  "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png"
+		"logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png"
       },
 	        {
         "id": "9",
         "name": "Дорожное радио",
         "streamUrl": "https://dorognoe.hostingradio.ru/radio",
-        "genre": "Русская музыка"
+        "genre": "Русская музыка",
+		"logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/dorognoeradio.png"
       },
       {
         "id": "10",
         "name": "Европа плюс",
         "streamUrl": "https://radio.promedia.ru/europa-alushta",
         "genre": "Русская музыка",
-		    "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/europaplus.png"
+		"logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/europaplus.png"
       },
 	  
 	  {
@@ -90,32 +93,35 @@
         "name": "Радио Ретро FM",
         "streamUrl": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3",
         "genre": "Русская музыка",
-		  "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioretrofm.png"
+		"logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioretrofm.png"
       },
 	  {
         "id": "12",
         "name": "Радио Record",
         "streamUrl": "https://air.unmixed.ru/record320",
-        "genre": "Русская музыка"
+        "genre": "Русская музыка",
+		"logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiorecord.png"
       },
 	  {
         "id": "13",
         "name": "Радио Эрмитаж",
         "streamUrl": "https://rusradio.hostingradio.ru/hermitage128.mp3",
-        "genre": "Русская музыка"
+        "genre": "Русская музыка",
+		"logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioermitazh.png"
       },
 	  {
         "id": "14",
         "name": "Радио Зенит",
         "streamUrl": "https://go-audio.toya.net.pl/269",
-        "genre": "Русская музыка"
+        "genre": "Русская музыка",
+		"logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiozenit.png"
       },
 	  {
         "id": "15",
         "name": "Наше Радио",
         "streamUrl": "https://nashe.streamr.ru/nashe-128.mp3",
         "genre": "Русская музыка",
-		  "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/nasheradio.png"
+		"logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/nasheradio.png"
       }
 	  
     ]
