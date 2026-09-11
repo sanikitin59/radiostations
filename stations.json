@@ -8,11 +8,11 @@
         "streamUrl": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3",
         "genre": "Pop"
       },
-      {
+	  {
         "id": "2",
-        "name": "DFM",
-        "streamUrl": "https://icecast.radiodfm.ru:8000/dfm.mp3",
-        "genre": "Dance"
+        "name": "Наше Радио",
+        "streamUrl": "https://nashe.streamr.ru/nashe-128.mp3",
+        "genre": "Rock"
       }
     ]
   },
