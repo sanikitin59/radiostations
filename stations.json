@@ -6,8 +6,8 @@
         "id": "1",
         "name": "Europa Plus",
         "streamUrl": "https://europaplus.hostingradio.ru:8014/europaplus320.mp3",
-        "genre": "Pop"
-		"logoUrl": "https://raw.githubusercontent.com/sanikitin59/radio-logos/main/europaplus.png"
+        "genre": "Pop",
+		    "logoUrl": "https://raw.githubusercontent.com/sanikitin59/radio-logos/main/europaplus.png"
       },
 	  {
         "id": "2",
@@ -76,8 +76,8 @@
         "id": "10",
         "name": "Европа плюс",
         "streamUrl": "https://radio.promedia.ru/europa-alushta",
-        "genre": "Русская музыка"
-		"logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/europaplus.png"
+        "genre": "Русская музыка",
+		    "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/europaplus.png"
       },
 	  
 	  {
@@ -109,7 +109,7 @@
         "name": "Наше Радио",
         "streamUrl": "https://nashe.streamr.ru/nashe-128.mp3",
         "genre": "Русская музыка"
-      },
+      }
 	  
     ]
   }
