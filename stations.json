@@ -13,7 +13,8 @@
         "id": "2",
         "name": "Наше Радио",
         "streamUrl": "https://nashe.streamr.ru/nashe-128.mp3",
-        "genre": "Rock"
+        "genre": "Rock",
+		  "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png"
       }
     ]
   },
@@ -24,13 +25,15 @@
         "id": "3",
         "name": "Радио Ретро FM",
         "streamUrl": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3",
-        "genre": "Rock"
+        "genre": "Rock",
+		  "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png"
       },
       {
         "id": "4",
         "name": "Maximum",
         "streamUrl": "https://maximum.hostingradio.ru/maximum128.mp3",
-        "genre": "Rock"
+        "genre": "Rock",
+		  "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png"
       }
     ]
   },
@@ -41,6 +44,7 @@
         "id": "5",
         "name": "Record",
         "streamUrl": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+		  "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png"
         "genre": "Dance"
       },
       {
