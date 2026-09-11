@@ -21,8 +21,8 @@
     "stations": [
       {
         "id": "3",
-        "name": "Наше Радио",
-        "streamUrl": "https://nashe.streamr.ru/nashe-128.mp3",
+        "name": "Радио Ретро FM",
+        "streamUrl": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3",
         "genre": "Rock"
       },
       {
@@ -44,8 +44,8 @@
       },
       {
         "id": "6",
-        "name": "Relax FM",
-        "streamUrl": "https://relaxfm.hostingradio.ru/relaxfm96.aacp",
+        "name": "Радио Эрмитаж",
+        "streamUrl": "https://rusradio.hostingradio.ru/hermitage128.mp3",
         "genre": "Relax"
       }
     ]
@@ -62,7 +62,19 @@
       {
         "id": "8",
         "name": "Дорожное Радио",
-        "streamUrl": "https://dorognoe.hostingradio.ru/dorognoe96.aacp",
+        "streamUrl": "https://dorognoe.hostingradio.ru/radio",
+        "genre": "Русская музыка"
+      },
+	        {
+        "id": "9",
+        "name": "Всесоюзное радио",
+        "streamUrl": "https://stream.cassiopeia-station.ru:1045/stream",
+        "genre": "Русская музыка"
+      },
+      {
+        "id": "10",
+        "name": "Старый портфель",
+        "streamUrl": "https://lk.castnow.ru:8100/oldbrief-320.mp3",
         "genre": "Русская музыка"
       }
     ]
