@@ -113,7 +113,8 @@
         "id": "15",
         "name": "Наше Радио",
         "streamUrl": "https://nashe.streamr.ru/nashe-128.mp3",
-        "genre": "Русская музыка"
+        "genre": "Русская музыка",
+		  "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/nasheradio.png"
       }
 	  
     ]
