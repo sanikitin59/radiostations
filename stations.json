@@ -89,7 +89,8 @@
         "id": "11",
         "name": "Радио Ретро FM",
         "streamUrl": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3",
-        "genre": "Русская музыка"
+        "genre": "Русская музыка",
+		  "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioretrofm.png"
       },
 	  {
         "id": "12",
