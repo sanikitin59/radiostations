@@ -11,7 +11,7 @@
       { "id": "ru_7", "name": "Радио Ваня", "streamUrl": "https://hls-01-vanya.hostingradio.ru/vanya/playlist.m3u8", "genre": "Pop" },
       { "id": "ru_8", "name": "Русское Радио", "streamUrl": "https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8", "genre": "Pop" },
       { "id": "ru_9", "name": "Радио Маяк", "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps", "genre": "Talk" },
-      { "id": "ru_10", "name": "Тест ФМ", "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps", "genre": "Talk" },
+      { "id": "ru_10", "name": "TEST FM", "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps", "genre": "Talk" },
       { "id": "ru_11", "name": "Вести FM", "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_128kbps", "genre": "News" }
     ]
   },
