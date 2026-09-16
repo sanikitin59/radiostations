@@ -2,7 +2,7 @@
   {
     "name": "Russia",
     "stations": [
-      { "id": "ru_1", "name": "Европа Плюс", "streamUrl": "https://hls-01-regions.emgsound.ru/11_msk/96/playlist.m3u8", "genre": "Pop" },
+      { "id": "ru_1", "name": "Старый портфель", "streamUrl": "https://lk.castnow.ru:8100/oldbrief-320.mp3", "genre": "Talk", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/staryjportfel.png" },
       { "id": "ru_2", "name": "Дорожное Радио", "streamUrl": "https://hls-01-dorognoe.hostingradio.ru/dorognoe/playlist.m3u8", "genre": "Pop" },
       { "id": "ru_3", "name": "Ретро FM", "streamUrl": "https://hls-01-retro.hostingradio.ru/retro/playlist.m3u8", "genre": "Retro" },
       { "id": "ru_4", "name": "Радио Дача", "streamUrl": "https://hls-01-dacha.hostingradio.ru/dacha/playlist.m3u8", "genre": "Pop" },
