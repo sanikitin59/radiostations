@@ -20,7 +20,7 @@
     "name": "Rock",
     "stations": [
       { "id": "rock_1", "name": "The Beatles", "streamUrl": "https://pub0102.101.ru:8443/stream/trust/mp3/128/55", "genre": "Rock" },
-      { "id": "rock_2", "name": "Paradise Rock Mix", "streamUrl": "https://stream.radioparadise.com/rock-flacbg", "genre": "Rock" },
+      { "id": "rock_2", "name": "Paradise Rock Mix", "streamUrl": "https://stream.radioparadise.com/rock-flac", "genre": "Rock" },
       { "id": "rock_3", "name": "Rock FM", "streamUrl": "https://rockfm-cope.flumotion.com/playlist.m3u8", "genre": "Rock" },
       { "id": "rock_4", "name": "Radio Record: Rock", "streamUrl": "https://radiorecord.hostingradio.ru/rock96.aacp", "genre": "Rock" },
       { "id": "rock_5", "name": "SomaFM: Left Coast 70s", "streamUrl": "https://ice1.somafm.com/seventies-128-mp3", "genre": "Rock" },
