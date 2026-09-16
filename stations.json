@@ -6,7 +6,7 @@
       { "id": "ru_2", "name": "Всесоюзное радио", "streamUrl": "https://stream.cassiopeia-station.ru:1045/stream", "genre": "Русская музыка", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png" },
       { "id": "ru_3", "name": "Ретро FM", "streamUrl": "https://hls-01-retro.hostingradio.ru/retro/playlist.m3u8", "genre": "Retro" },
       { "id": "ru_4", "name": "Радио Дача", "streamUrl": "https://hls-01-dacha.hostingradio.ru/dacha/playlist.m3u8", "genre": "Pop" },
-      { "id": "ru_5", "name": "Шансон", "streamUrl": "https://hls-01-chanson.hostingradio.ru/chanson/playlist.m3u8", "genre": "Chanson", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/chanson.png" },
+      { "id": "ru_5", "name": "Шансон", "streamUrl": "https://hls-01-chanson.hostingradio.ru/chanson/playlist.m3u8", "genre": "Chanson", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/shanson.png" },
       { "id": "ru_6", "name": "Авторадио", "streamUrl": "https://hls-01-avtoradio.hostingradio.ru/avtoradio/playlist.m3u8", "genre": "Pop" },
       { "id": "ru_7", "name": "Радио Ваня", "streamUrl": "https://hls-01-vanya.hostingradio.ru/vanya/playlist.m3u8", "genre": "Pop" },
       { "id": "ru_8", "name": "Русское Радио", "streamUrl": "https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8", "genre": "Pop" },
