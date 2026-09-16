@@ -12,8 +12,8 @@
       { "id": "ru_8", "name": "Русское Радио", "streamUrl": "https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8", "genre": "Русская музыка", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/russkoeradio.png" },
       { "id": "ru_9", "name": "Радио Маяк", "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps", "genre": "Talk", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiomayak.png" },
       { "id": "ru_10", "name": "Радио Эрмитаж", "streamUrl": "https://rusradio.hostingradio.ru/hermitage128.mp3", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioermitazh.png" },
-	  { "id": "ru_10", "name": "Радио Зенит", "streamUrl": "https://go-audio.toya.net.pl/269", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiozenit.png" },
-	  { "id": "ru_10", "name": "Наше Радио", "streamUrl": "https://nashe.streamr.ru/nashe-128.mp3", "genre": "Русская музыка", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/nasheradio.png" }
+	  { "id": "ru_11", "name": "Радио Зенит", "streamUrl": "https://go-audio.toya.net.pl/269", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiozenit.png" },
+	  { "id": "ru_12", "name": "Наше Радио", "streamUrl": "https://nashe.streamr.ru/nashe-128.mp3", "genre": "Русская музыка", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/nasheradio.png" }
     ]
   },
   {
