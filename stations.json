@@ -7,11 +7,11 @@
       { "id": "ru_3", "name": "Дорожное радио", "streamUrl": "https://dorognoe.hostingradio.ru/radio", "genre": "Русская музыка", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/dorognoeradio.png" },
       { "id": "ru_4", "name": "Европа плюс", "streamUrl": "https://radio.promedia.ru/europa-alushta", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/europaplus.png" },
       { "id": "ru_5", "name": "Шансон", "streamUrl": "https://hls-01-chanson.hostingradio.ru/chanson/playlist.m3u8", "genre": "Chanson", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/shanson.png" },
-      { "id": "ru_6", "name": "Авторадио", "streamUrl": "https://hls-01-avtoradio.hostingradio.ru/avtoradio/playlist.m3u8", "genre": "Pop" },
-      { "id": "ru_7", "name": "Радио Ваня", "streamUrl": "https://hls-01-vanya.hostingradio.ru/vanya/playlist.m3u8", "genre": "Pop" },
-      { "id": "ru_8", "name": "Русское Радио", "streamUrl": "https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8", "genre": "Pop" },
-      { "id": "ru_9", "name": "Радио Маяк", "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps", "genre": "Talk" },
-      { "id": "ru_10", "name": "Вести FM", "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_128kbps", "genre": "News" }
+      { "id": "ru_6", "name": "Радио Ретро FM", "streamUrl": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioretrofm.png" },
+      { "id": "ru_7", "name": "Радио Record", "streamUrl": "https://air.unmixed.ru/record320", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiorecord.png" },
+      { "id": "ru_8", "name": "Русское Радио", "streamUrl": "https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8", "genre": "Русская музыка", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/russkoeradio.png" },
+      { "id": "ru_9", "name": "Радио Маяк", "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps", "genre": "Talk", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiomayak.png" },
+      { "id": "ru_10", "name": "Вести FM", "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_128kbps", "genre": "News", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiomayak.png" }
     ]
   },
   {
