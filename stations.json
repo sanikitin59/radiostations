@@ -50,16 +50,16 @@
   {
     "name": "Jazz",
     "stations": [
-      { "id": "jazz_1", "name": "Radio Jazz", "streamUrl": "https://jazz.hostingradio.ru/jazz96.aacp", "genre": "Jazz" },
-      { "id": "jazz_2", "name": "SomaFM: Sonic Universe", "streamUrl": "https://ice1.somafm.com/sonicuniverse-128-mp3", "genre": "Avant-Garde Jazz" },
-      { "id": "jazz_3", "name": "SomaFM: Illinois Street Lounge", "streamUrl": "https://ice1.somafm.com/illstreet-128-mp3", "genre": "Lounge Jazz" },
-      { "id": "jazz_4", "name": "SomaFM: Suburbia", "streamUrl": "https://ice1.somafm.com/suburbia-128-mp3", "genre": "Smooth Jazz" },
-      { "id": "jazz_5", "name": "Radio Record: Jazz", "streamUrl": "https://radiorecord.hostingradio.ru/jazz96.aacp", "genre": "Jazz" },
-      { "id": "jazz_6", "name": "Linn Jazz", "streamUrl": "https://radio.linn.co.uk:8003/autodj", "genre": "Jazz" },
-      { "id": "jazz_7", "name": "KMHD Jazz Radio", "streamUrl": "https://ais-sa3.cdnstream1.com/2442_128.aac/playlist.m3u8", "genre": "Jazz" },
-      { "id": "jazz_8", "name": "SmoothJazz.com.pl", "streamUrl": "https://bcast.vigormultimedia.com/sjcompl/live.m3u8", "genre": "Smooth Jazz" },
-      { "id": "jazz_9", "name": "Jazz 91.9 WCLK", "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/WCLKFM.m3u8", "genre": "Jazz" },
-      { "id": "jazz_10", "name": "ČRo Jazz", "streamUrl": "https://icecast4.play.cz/radiojazz128.mp3", "genre": "Jazz" }
+      { "id": "jazz_1", "name": "Sun Jazz", "streamUrl": "https://diffusion.lafrap.fr/sun-jazz.mp3", "genre": "Jazz" },
+      { "id": "jazz_2", "name": "Sonic Universe", "streamUrl": "https://ice1.somafm.com/sonicuniverse-128-mp3", "genre": "Avant-Garde Jazz" },
+      { "id": "jazz_3", "name": "Illinois Street Lounge", "streamUrl": "https://ice1.somafm.com/illstreet-128-mp3", "genre": "Lounge Jazz" },
+      { "id": "jazz_4", "name": "Jazz FM", "streamUrl": "https://am.radioaurora.am/jz", "genre": "Smooth Jazz" },
+      { "id": "jazz_5", "name": "Jazz Love", "streamUrl": "https://ec1.yesstreaming.net:2940/stream", "genre": "Jazz" },
+      { "id": "jazz_6", "name": "Jazz 24", "streamUrl": "https://knkx-live-a.edge.audiocdn.com/6285_256k", "genre": "Jazz" },
+      { "id": "jazz_7", "name": "Swing FM", "streamUrl": "https://swingfm.ice.infomaniak.ch/swingfm-128.mp3", "genre": "Jazz" },
+      { "id": "jazz_8", "name": "Jazz Vesp", "streamUrl": "https://ec1.yesstreaming.net:1365/stream", "genre": "Smooth Jazz" },
+      { "id": "jazz_9", "name": "Jazztice", "streamUrl": "https://aska.ru-hoster.com:8061/stream", "genre": "Jazz" },
+      { "id": "jazz_10", "name": "Jazz Radio - Classical", "streamUrl": "https://ec1.yesstreaming.net:2900/stream", "genre": "Jazz" }
     ]
   },
   {
