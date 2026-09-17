@@ -3,17 +3,17 @@
     "name": "Russia",
     "stations": [
       { "id": "ru_1", "name": "Старый портфель", "streamUrl": "https://lk.castnow.ru:8100/oldbrief-320.mp3", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/staryjportfel.png" },
-      { "id": "ru_2", "name": "Всесоюзное радио", "streamUrl": "https://stream.cassiopeia-station.ru:1045/stream", "genre": "Русская музыка", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png" },
-      { "id": "ru_3", "name": "Дорожное радио", "streamUrl": "https://dorognoe.hostingradio.ru/radio", "genre": "Русская музыка", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/dorognoeradio.png" },
-      { "id": "ru_4", "name": "Европа плюс", "streamUrl": "https://radio.promedia.ru/europa-alushta", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/europaplus.png" },
-      { "id": "ru_5", "name": "Шансон", "streamUrl": "https://hls-01-chanson.hostingradio.ru/chanson/playlist.m3u8", "genre": "Chanson", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/shanson.png" },
-      { "id": "ru_6", "name": "Радио Ретро FM", "streamUrl": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioretrofm.png" },
-      { "id": "ru_7", "name": "Радио Record", "streamUrl": "https://air.unmixed.ru/record320", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiorecord.png" },
-      { "id": "ru_8", "name": "Русское Радио", "streamUrl": "https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8", "genre": "Русская музыка", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/russkoeradio.png" },
-      { "id": "ru_9", "name": "Радио Маяк", "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps", "genre": "Talk", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiomayak.png" },
-      { "id": "ru_10", "name": "Радио Эрмитаж", "streamUrl": "https://rusradio.hostingradio.ru/hermitage128.mp3", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioermitazh.png" },
-	  { "id": "ru_11", "name": "Радио Зенит", "streamUrl": "https://go-audio.toya.net.pl/269", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiozenit.png" },
-	  { "id": "ru_12", "name": "Наше Радио", "streamUrl": "https://nashe.streamr.ru/nashe-128.mp3", "genre": "Русская музыка", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/nasheradio.png" }
+      { "id": "ru_2", "name": "Всесоюзное радио", "streamUrl": "https://stream.cassiopeia-station.ru:1045/stream", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png" },
+      { "id": "ru_3", "name": "Дорожное радио", "streamUrl": "https://dorognoe.hostingradio.ru/radio", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/dorognoeradio.png" },
+      { "id": "ru_4", "name": "Европа плюс", "streamUrl": "https://radio.promedia.ru/europa-alushta", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/europaplus.png" },
+      { "id": "ru_5", "name": "Шансон", "streamUrl": "https://hls-01-chanson.hostingradio.ru/chanson/playlist.m3u8", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/shanson.png" },
+      { "id": "ru_6", "name": "Радио Ретро FM", "streamUrl": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioretrofm.png" },
+      { "id": "ru_7", "name": "Радио Record", "streamUrl": "https://air.unmixed.ru/record320", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiorecord.png" },
+      { "id": "ru_8", "name": "Русское Радио", "streamUrl": "https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/russkoeradio.png" },
+      { "id": "ru_9", "name": "Радио Маяк", "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiomayak.png" },
+      { "id": "ru_10", "name": "Радио Эрмитаж", "streamUrl": "https://rusradio.hostingradio.ru/hermitage128.mp3", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioermitazh.png" },
+	  { "id": "ru_11", "name": "Радио Зенит", "streamUrl": "https://go-audio.toya.net.pl/269", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiozenit.png" },
+	  { "id": "ru_12", "name": "Наше Радио", "streamUrl": "https://nashe.streamr.ru/nashe-128.mp3", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/nasheradio.png" }
     ]
   },
   {
@@ -35,31 +35,31 @@
   {
     "name": "Pop",
     "stations": [
-      { "id": "pop_1", "name": "Italia On Air", "streamUrl": "https://strm112.1.fm/italiaonair_mobile_mp3", "genre": "Dance Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/italiaonair.png" },
+      { "id": "pop_1", "name": "Italia On Air", "streamUrl": "https://strm112.1.fm/italiaonair_mobile_mp3", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/italiaonair.png" },
       { "id": "pop_2", "name": "Radio Bingo", "streamUrl": "https://audiostreamen.nl/radiobingo256", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiobingo.png" },
-      { "id": "pop_3", "name": "Roundand Sound Radio", "streamUrl": "https://stream.roundandsound.nl/;", "genre": "Dance Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/roundandsoundradio.png" },
+      { "id": "pop_3", "name": "Roundand Sound Radio", "streamUrl": "https://stream.roundandsound.nl/;", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/roundandsoundradio.png" },
       { "id": "pop_4", "name": "Mistral FM", "streamUrl": "https://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/mistralfm.png" },
       { "id": "pop_5", "name": "Los 40", "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_CASTELLON.mp3", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/los40.png" },
       { "id": "pop_6", "name": "Radio Monte Carlo", "streamUrl": "https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiomontecarlo.png" },
       { "id": "pop_7", "name": "Radio City", "streamUrl": "https://stream1.radiocity.si/DevaRelay", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiocity.png" },
       { "id": "pop_8", "name": "Lux Radio", "streamUrl": "https://live9.avf.ch/lux_backup", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/luxradio.png" },
       { "id": "pop_9", "name": "Hi FM", "streamUrl": "https://listen-hifmtemp.sharp-stream.com/hifmhigh.mp3", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/hifm.png" },
-      { "id": "pop_10", "name": "Radio Idea", "streamUrl": "https://radio.latuatv.eu:1320/stream", "genre": "Comedy Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioidea.png" }
+      { "id": "pop_10", "name": "Radio Idea", "streamUrl": "https://radio.latuatv.eu:1320/stream", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioidea.png" }
     ]
   },
   {
     "name": "Jazz",
     "stations": [
-      { "id": "jazz_1", "name": "Sun Jazz", "streamUrl": "https://diffusion.lafrap.fr/sun-jazz.mp3", "genre": "Jazz" },
-      { "id": "jazz_2", "name": "Sonic Universe", "streamUrl": "https://ice1.somafm.com/sonicuniverse-128-mp3", "genre": "Avant-Garde Jazz" },
-      { "id": "jazz_3", "name": "Illinois Street Lounge", "streamUrl": "https://ice1.somafm.com/illstreet-128-mp3", "genre": "Lounge Jazz" },
-      { "id": "jazz_4", "name": "Jazz FM", "streamUrl": "https://am.radioaurora.am/jz", "genre": "Smooth Jazz" },
-      { "id": "jazz_5", "name": "Jazz Love", "streamUrl": "https://ec1.yesstreaming.net:2940/stream", "genre": "Jazz" },
-      { "id": "jazz_6", "name": "Jazz 24", "streamUrl": "https://knkx-live-a.edge.audiocdn.com/6285_256k", "genre": "Jazz" },
-      { "id": "jazz_7", "name": "Swing FM", "streamUrl": "https://swingfm.ice.infomaniak.ch/swingfm-128.mp3", "genre": "Jazz" },
-      { "id": "jazz_8", "name": "Jazz Vesp", "streamUrl": "https://ec1.yesstreaming.net:1365/stream", "genre": "Smooth Jazz" },
-      { "id": "jazz_9", "name": "Jazztice", "streamUrl": "https://aska.ru-hoster.com:8061/stream", "genre": "Jazz" },
-      { "id": "jazz_10", "name": "Jazz Radio - Classical", "streamUrl": "https://ec1.yesstreaming.net:2900/stream", "genre": "Jazz" }
+      { "id": "jazz_1", "name": "Sun Jazz", "streamUrl": "https://diffusion.lafrap.fr/sun-jazz.mp3", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/sunjazz.png" },
+      { "id": "jazz_2", "name": "Sonic Universe", "streamUrl": "https://ice1.somafm.com/sonicuniverse-128-mp3", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/sonicuniverse.png" },
+      { "id": "jazz_3", "name": "Illinois Street Lounge", "streamUrl": "https://ice1.somafm.com/illstreet-128-mp3", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/illinoisstreetlounge.png" },
+      { "id": "jazz_4", "name": "Jazz FM", "streamUrl": "https://am.radioaurora.am/jz", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/jazzfm.png" },
+      { "id": "jazz_5", "name": "Jazz Love", "streamUrl": "https://ec1.yesstreaming.net:2940/stream", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/jazzlove.png" },
+      { "id": "jazz_6", "name": "Jazz 24", "streamUrl": "https://knkx-live-a.edge.audiocdn.com/6285_256k", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/jazz24.png" },
+      { "id": "jazz_7", "name": "Swing FM", "streamUrl": "https://swingfm.ice.infomaniak.ch/swingfm-128.mp3", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/swingfm.png" },
+      { "id": "jazz_8", "name": "Jazz Vesp", "streamUrl": "https://ec1.yesstreaming.net:1365/stream", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/jazzvesp.png" },
+      { "id": "jazz_9", "name": "Jazztice", "streamUrl": "https://aska.ru-hoster.com:8061/stream", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/jazztice.png" },
+      { "id": "jazz_10", "name": "Jazz Radio Classical", "streamUrl": "https://ec1.yesstreaming.net:2900/stream", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/jazzradioclassical.png" }
     ]
   },
   {
