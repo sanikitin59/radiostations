@@ -48,21 +48,6 @@
     ]
   },
   {
-    "name": "Lounge",
-    "stations": [
-      { "id": "lounge_1", "name": "Relax FM", "streamUrl": "https://hls-01-relaxfm.hostingradio.ru/relaxfm/playlist.m3u8", "genre": "Lounge" },
-      { "id": "lounge_2", "name": "Record: Chillout", "streamUrl": "https://radiorecord.hostingradio.ru/chillout96.aacp", "genre": "Chillout" },
-      { "id": "lounge_3", "name": "Record: Summer Lounge", "streamUrl": "https://radiorecord.hostingradio.ru/summerlounge96.aacp", "genre": "Lounge" },
-      { "id": "lounge_4", "name": "SomaFM: Illinois Street Lounge", "streamUrl": "https://ice1.somafm.com/illstreet-128-mp3", "genre": "Lounge" },
-      { "id": "lounge_5", "name": "SomaFM: Lush", "streamUrl": "https://ice1.somafm.com/lush-128-mp3", "genre": "Vocal Lounge" },
-      { "id": "lounge_6", "name": "SomaFM: Groove Salad", "streamUrl": "https://ice1.somafm.com/groovesalad-128-mp3", "genre": "Ambient Lounge" },
-      { "id": "lounge_7", "name": "Radio Paradise: Mellow Mix", "streamUrl": "https://stream.radioparadise.com/mellow-192", "genre": "Mellow" },
-      { "id": "lounge_8", "name": "Klassik Radio: Lounge", "streamUrl": "https://klassikr.streamabc.net/klr-lounge-aacplus-64-7100628", "genre": "Lounge" },
-      { "id": "lounge_9", "name": "Costa Del Mar: Chillout", "streamUrl": "https://radio4.cdm-radio.com:18020/stream-mp3-Chill", "genre": "Chillout" },
-      { "id": "lounge_10", "name": "Мята Lounge", "streamUrl": "https://hls-01-mintlounge.hostingradio.ru/mintlounge/playlist.m3u8", "genre": "Lounge" }
-    ]
-  },
-  {
     "name": "Jazz",
     "stations": [
       { "id": "jazz_1", "name": "Radio Jazz", "streamUrl": "https://jazz.hostingradio.ru/jazz96.aacp", "genre": "Jazz" },
