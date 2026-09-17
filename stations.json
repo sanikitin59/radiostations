@@ -35,7 +35,7 @@
   {
     "name": "Pop",
     "stations": [
-      { "id": "pop_1", "name": "DFM", "streamUrl": "https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8", "genre": "Dance Pop" },
+      { "id": "pop_1", "name": "Italia On Air", "streamUrl": "https://strm112.1.fm/italiaonair_mobile_mp3", "genre": "Dance Pop" },
       { "id": "pop_2", "name": "Radio Bingo", "streamUrl": "https://audiostreamen.nl/radiobingo256", "genre": "Pop" },
       { "id": "pop_3", "name": "Roundand Sound Radio", "streamUrl": "https://stream.roundandsound.nl/;", "genre": "Dance Pop" },
       { "id": "pop_4", "name": "Mistral FM", "streamUrl": "https://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3", "genre": "Pop" },
