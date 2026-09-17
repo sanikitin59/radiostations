@@ -35,16 +35,16 @@
   {
     "name": "Pop",
     "stations": [
-      { "id": "pop_1", "name": "Italia On Air", "streamUrl": "https://strm112.1.fm/italiaonair_mobile_mp3", "genre": "Dance Pop" },
-      { "id": "pop_2", "name": "Radio Bingo", "streamUrl": "https://audiostreamen.nl/radiobingo256", "genre": "Pop" },
-      { "id": "pop_3", "name": "Roundand Sound Radio", "streamUrl": "https://stream.roundandsound.nl/;", "genre": "Dance Pop" },
-      { "id": "pop_4", "name": "Mistral FM", "streamUrl": "https://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3", "genre": "Pop" },
-      { "id": "pop_5", "name": "Los 40", "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_CASTELLON.mp3", "genre": "Pop" },
-      { "id": "pop_6", "name": "Радио Монте-Карло", "streamUrl": "https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8", "genre": "Pop" },
-      { "id": "pop_7", "name": "Radio City", "streamUrl": "https://stream1.radiocity.si/DevaRelay", "genre": "Pop" },
-      { "id": "pop_8", "name": "Lux Radio", "streamUrl": "https://live9.avf.ch/lux_backup", "genre": "Pop" },
-      { "id": "pop_9", "name": "Hi FM", "streamUrl": "https://listen-hifmtemp.sharp-stream.com/hifmhigh.mp3", "genre": "Pop" },
-      { "id": "pop_10", "name": "Radio Idea", "streamUrl": "https://radio.latuatv.eu:1320/stream", "genre": "Comedy Pop" }
+      { "id": "pop_1", "name": "Italia On Air", "streamUrl": "https://strm112.1.fm/italiaonair_mobile_mp3", "genre": "Dance Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/italiaonair.png" },
+      { "id": "pop_2", "name": "Radio Bingo", "streamUrl": "https://audiostreamen.nl/radiobingo256", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiobingo.png" },
+      { "id": "pop_3", "name": "Roundand Sound Radio", "streamUrl": "https://stream.roundandsound.nl/;", "genre": "Dance Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/roundandsoundradio.png" },
+      { "id": "pop_4", "name": "Mistral FM", "streamUrl": "https://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/mistralfm.png" },
+      { "id": "pop_5", "name": "Los 40", "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_CASTELLON.mp3", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/los40.png" },
+      { "id": "pop_6", "name": "Radio Monte Carlo", "streamUrl": "https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiomontecarlo.png" },
+      { "id": "pop_7", "name": "Radio City", "streamUrl": "https://stream1.radiocity.si/DevaRelay", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiocity.png" },
+      { "id": "pop_8", "name": "Lux Radio", "streamUrl": "https://live9.avf.ch/lux_backup", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/luxradio.png" },
+      { "id": "pop_9", "name": "Hi FM", "streamUrl": "https://listen-hifmtemp.sharp-stream.com/hifmhigh.mp3", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/hifm.png" },
+      { "id": "pop_10", "name": "Radio Idea", "streamUrl": "https://radio.latuatv.eu:1320/stream", "genre": "Comedy Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioidea.png" }
     ]
   },
   {
