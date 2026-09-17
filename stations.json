@@ -39,7 +39,7 @@
       { "id": "pop_2", "name": "Radio Bingo", "streamUrl": "https://audiostreamen.nl/radiobingo256", "genre": "Pop" },
       { "id": "pop_3", "name": "Roundand Sound Radio", "streamUrl": "https://stream.roundandsound.nl/;", "genre": "Dance Pop" },
       { "id": "pop_4", "name": "Mistral FM", "streamUrl": "https://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3", "genre": "Pop" },
-      { "id": "pop_5", "name": "Radio Zeta", "streamUrl": "https://streamingv2.shoutcast.com/radio-zeta", "genre": "Pop" },
+      { "id": "pop_5", "name": "Los 40", "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_CASTELLON.mp3", "genre": "Pop" },
       { "id": "pop_6", "name": "Радио Монте-Карло", "streamUrl": "https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8", "genre": "Pop" },
       { "id": "pop_7", "name": "Radio City", "streamUrl": "https://stream1.radiocity.si/DevaRelay", "genre": "Pop" },
       { "id": "pop_8", "name": "Lux Radio", "streamUrl": "https://live9.avf.ch/lux_backup", "genre": "Pop" },
