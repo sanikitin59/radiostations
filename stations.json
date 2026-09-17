@@ -36,15 +36,15 @@
     "name": "Pop",
     "stations": [
       { "id": "pop_1", "name": "DFM", "streamUrl": "https://hls-01-dfm.hostingradio.ru/dfm/playlist.m3u8", "genre": "Dance Pop" },
-      { "id": "pop_2", "name": "Love Radio", "streamUrl": "https://hls-01-loveradio.hostingradio.ru/loveradio/playlist.m3u8", "genre": "Pop" },
-      { "id": "pop_3", "name": "Energy FM", "streamUrl": "https://hls-01-energyfm.hostingradio.ru/energyfm/playlist.m3u8", "genre": "Dance Pop" },
-      { "id": "pop_4", "name": "Радио Рекорд: Поп-музыка", "streamUrl": "https://radiorecord.hostingradio.ru/pop96.aacp", "genre": "Pop" },
-      { "id": "pop_5", "name": "Like FM", "streamUrl": "https://hls-01-likefm.hostingradio.ru/likefm/playlist.m3u8", "genre": "Pop" },
+      { "id": "pop_2", "name": "Radio Bingo", "streamUrl": "https://audiostreamen.nl/radiobingo256", "genre": "Pop" },
+      { "id": "pop_3", "name": "Roundand Sound Radio", "streamUrl": "https://stream.roundandsound.nl/;", "genre": "Dance Pop" },
+      { "id": "pop_4", "name": "Mistral FM", "streamUrl": "https://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3", "genre": "Pop" },
+      { "id": "pop_5", "name": "Radio Zeta", "streamUrl": "https://streamingv2.shoutcast.com/radio-zeta", "genre": "Pop" },
       { "id": "pop_6", "name": "Радио Монте-Карло", "streamUrl": "https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8", "genre": "Pop" },
-      { "id": "pop_7", "name": "Радио 7 на семи холмах", "streamUrl": "https://hls-01-radio7.hostingradio.ru/radio7/playlist.m3u8", "genre": "Pop" },
-      { "id": "pop_8", "name": "Свежее Радио", "streamUrl": "https://hls-01-svezhee.hostingradio.ru/svezhee/playlist.m3u8", "genre": "Pop" },
-      { "id": "pop_9", "name": "Первое популярное радио", "streamUrl": "https://hls-01-pop.hostingradio.ru/pop/playlist.m3u8", "genre": "Pop" },
-      { "id": "pop_10", "name": "Comedy Radio", "streamUrl": "https://hls-01-comedy.hostingradio.ru/comedy/playlist.m3u8", "genre": "Comedy Pop" }
+      { "id": "pop_7", "name": "Radio City", "streamUrl": "https://stream1.radiocity.si/DevaRelay", "genre": "Pop" },
+      { "id": "pop_8", "name": "Lux Radio", "streamUrl": "https://live9.avf.ch/lux_backup", "genre": "Pop" },
+      { "id": "pop_9", "name": "Hi FM", "streamUrl": "https://listen-hifmtemp.sharp-stream.com/hifmhigh.mp3", "genre": "Pop" },
+      { "id": "pop_10", "name": "Radio Idea", "streamUrl": "https://radio.latuatv.eu:1320/stream", "genre": "Comedy Pop" }
     ]
   },
   {
