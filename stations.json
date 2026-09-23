@@ -140,14 +140,14 @@
   {
     "name": "Christmas",
     "stations": [
-      { "id": "christmas_1", "name": "SomaFM: Christmas Rocks!", "streamUrl": "https://ice1.somafm.com/xmasrocks-128-mp3", "genre": "Rock Christmas" },
-      { "id": "christmas_2", "name": "SomaFM: Xmas in Frisko", "streamUrl": "https://ice1.somafm.com/xmasinfrisko-128-mp3", "genre": "Eclectic Christmas" },
-      { "id": "christmas_3", "name": "SomaFM: Department Store Christmas", "streamUrl": "https://ice1.somafm.com/departmentstorexmas-128-mp3", "genre": "Christmas" },
-      { "id": "christmas_4", "name": "Jouluradio", "streamUrl": "https://ms-live-jouluradio01.nm-elemental.nelonenmedia.fi/master.m3u8", "genre": "Christmas" },
-      { "id": "christmas_5", "name": "Christmasradio.fm", "streamUrl": "https://streams.zeno.fm/8q6b5q3v4uquv", "genre": "Christmas" },
-      { "id": "christmas_6", "name": "The Christmas Station", "streamUrl": "https://thechristmasstation.org/stream", "genre": "Christmas" },
-      { "id": "christmas_7", "name": "Calm Radio: Christmas", "streamUrl": "https://streams.calmradio.com/api/26/128/stream", "genre": "Christmas" },
-      { "id": "christmas_8", "name": "Radio Paradise: Christmas", "streamUrl": "https://stream.radioparadise.com/christmas-192", "genre": "Christmas" },
+      { "id": "christmas_1", "name": "1.FM - Always-Christmas", "streamUrl": "https://strm112.1.fm/christmas_mobile_mp3", "genre": "Rock Christmas" },
+      { "id": "christmas_2", "name": "Happy Christmas Radio", "streamUrl": "https://radio1.streamserver.link:8070/hcr-mp3-hq", "genre": "Eclectic Christmas" },
+      { "id": "christmas_3", "name": "Retro FM - Jõulud", "streamUrl": "https://edge03.cdn.bitflip.ee:8888/RetroJ6ulud", "genre": "Christmas" },
+      { "id": "christmas_4", "name": "Mai Radio Christmas", "streamUrl": "https://ec6.yesstreaming.net:2220/stream", "genre": "Christmas" },
+      { "id": "christmas_5", "name": "Real Christmas", "streamUrl": "https://realxmas.live24.gr/realxmas", "genre": "Christmas" },
+      { "id": "christmas_6", "name": "Kissmas", "streamUrl": "https://netradio.live24.gr/kiss-web-xmas", "genre": "Christmas" },
+      { "id": "christmas_7", "name": "Myrhael Angel - Christmas", "streamUrl": "https://strm112.1.fm/christmas_mobile_aac", "genre": "Christmas" },
+      { "id": "christmas_8", "name": "Dansbandskanalen Julmusik", "streamUrl": "https://stream.dbmedia.se/dbkjulMP3", "genre": "Christmas" },
       { "id": "christmas_9", "name": "181.FM: Christmas Country", "streamUrl": "https://listen.181fm.com/181-xcountry_128k.mp3", "genre": "Christmas Country" },
       { "id": "christmas_10", "name": "181.FM: Christmas Standards", "streamUrl": "https://listen.181fm.com/181-xstandards_128k.mp3", "genre": "Christmas Standards" }
     ]
