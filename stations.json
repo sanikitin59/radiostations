@@ -125,16 +125,16 @@
   {
     "name": "Classical",
     "stations": [
-      { "id": "classical_1", "name": "Радио Классик", "streamUrl": "https://classic.hostingradio.ru/classic96.aacp", "genre": "Classical" },
-      { "id": "classical_2", "name": "Радио Орфей", "streamUrl": "http://icecast.orpheus.ru:8000/orpheus", "genre": "Classical" },
+      { "id": "classical_1", "name": "All Classical", "streamUrl": "https://kpbs-classical.streamguys1.com/kpbs-classical-itunes-256k.aac", "genre": "Classical" },
+      { "id": "classical_2", "name": "SR P2", "streamUrl": "https://ljud1-cdn.sr.se/lc/p2.m3u8", "genre": "Classical" },
       { "id": "classical_3", "name": "BBC Radio 3", "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8", "genre": "Classical" },
-      { "id": "classical_4", "name": "BR-Klassik", "streamUrl": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high", "genre": "Classical" },
-      { "id": "classical_5", "name": "ČRo D-dur", "streamUrl": "http://amp.cesnet.cz:8000/cro-d-dur.flac", "genre": "Classical" },
-      { "id": "classical_6", "name": "Gewandhaus Radio", "streamUrl": "https://streams.gewandhausradio.de/live/mp3-256/hoererlink/", "genre": "Classical" },
-      { "id": "classical_7", "name": "SomaFM: Covers", "streamUrl": "https://ice1.somafm.com/covers-128-mp3", "genre": "Classical Covers" },
+      { "id": "classical_4", "name": "Radio Populyarnaya Klassika", "streamUrl": "https://icecast-radioclassica.cdnvideo.ru/radioclassica", "genre": "Classical" },
+      { "id": "classical_5", "name": "New England Public Radio Classical", "streamUrl": "http://amp.cesnet.cz:8000/cro-d-dur.flac", "genre": "Classical" },
+      { "id": "classical_6", "name": "RAI Radio Classica", "streamUrl": "https://radiotreclassica-live.akamaized.net/hls/live/2032595/radiotreclassica/radiotreclassica/playlist.m3u8", "genre": "Classical" },
+      { "id": "classical_7", "name": "Bartók Rádió", "streamUrl": "https://icast.connectmedia.hu/4741/mr3.mp3", "genre": "Classical Covers" },
       { "id": "classical_8", "name": "SomaFM: Lush", "streamUrl": "https://ice1.somafm.com/lush-128-mp3", "genre": "Vocal Classical" },
-      { "id": "classical_9", "name": "WCPE The Classical Station", "streamUrl": "https://wcpelive.com/streams/wcpe.mp3", "genre": "Classical" },
-      { "id": "classical_10", "name": "Sveriges Radio P2", "streamUrl": "https://http-live.sr.se/p2-mp3-192", "genre": "Classical" }
+      { "id": "classical_9", "name": "Classical KUSC", "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP256.mp3", "genre": "Classical" },
+      { "id": "classical_10", "name": "Adagio Radio", "streamUrl": "https://stream.tunerplay.com/radio/8010/adagioradio.mp3", "genre": "Classical" }
     ]
   },
   {
