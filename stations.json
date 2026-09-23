@@ -72,8 +72,8 @@
       { "id": "hiphop_5", "name": "On The Real", "streamUrl": "https://c2.radioboss.fm:8221/autodj", "genre": "Hip-Hop" },
       { "id": "hiphop_6", "name": "La Kalle", "streamUrl": "https://radio.telemicro.com.do/lakallesantiago", "genre": "Hip-Hop" },
       { "id": "hiphop_7", "name": "1LIVE DIGGI", "streamUrl": "https://wdrhf.akamaized.net/hls/live/2027963/1livediggi/master.m3u8", "genre": "Hip-Hop" },
-      { "id": "hiphop_8", "name": "FUEGO", "streamUrl": "https://stream.rcs.revma.com/myzzee8kwccwv", "genre": "Hip-Hop" },
-      { "id": "hiphop_9", "name": "Mouv Radio", "streamUrl": "https://icecast.radiofrance.fr/mouv-hifi.aac", "genre": "Hip-Hop" },
+      { "id": "hiphop_8", "name": "Generations Rap US", "streamUrl": "https://gene-wr08.ice.infomaniak.ch/gene-wr08.mp3", "genre": "Hip-Hop" },
+      { "id": "hiphop_9", "name": "Radio Record  Rap Classics", "streamUrl": "https://radiorecord.hostingradio.ru/rapclassics96.aacp", "genre": "Hip-Hop" },
       { "id": "hiphop_10", "name": "SomaFM: Fluid", "streamUrl": "https://ice1.somafm.com/fluid-128-mp3", "genre": "Hip-Hop" }
     ]
   },
