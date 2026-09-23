@@ -132,7 +132,7 @@
       { "id": "classical_5", "name": "New England Public Radio Classical", "streamUrl": "http://amp.cesnet.cz:8000/cro-d-dur.flac", "genre": "Classical" },
       { "id": "classical_6", "name": "RAI Radio Classica", "streamUrl": "https://radiotreclassica-live.akamaized.net/hls/live/2032595/radiotreclassica/radiotreclassica/playlist.m3u8", "genre": "Classical" },
       { "id": "classical_7", "name": "Bartók Rádió", "streamUrl": "https://icast.connectmedia.hu/4741/mr3.mp3", "genre": "Classical Covers" },
-      { "id": "classical_8", "name": "SomaFM: Lush", "streamUrl": "https://ice1.somafm.com/lush-128-mp3", "genre": "Vocal Classical" },
+      { "id": "classical_8", "name": "Радио Орфей - Популярная классика", "streamUrl": "https://channels.fonotron.ru:8000/Chan_72_256.mp3", "genre": "Vocal Classical" },
       { "id": "classical_9", "name": "Classical KUSC", "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP256.mp3", "genre": "Classical" },
       { "id": "classical_10", "name": "Adagio Radio", "streamUrl": "https://stream.tunerplay.com/radio/8010/adagioradio.mp3", "genre": "Classical" }
     ]
