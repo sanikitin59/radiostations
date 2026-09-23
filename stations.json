@@ -126,7 +126,7 @@
     "name": "Classical",
     "stations": [
       { "id": "classical_1", "name": "All Classical", "streamUrl": "https://kpbs-classical.streamguys1.com/kpbs-classical-itunes-256k.aac", "genre": "Classical" },
-      { "id": "classical_2", "name": "SR P2", "streamUrl": "https://ljud1-cdn.sr.se/lc/p2.m3u8", "genre": "Classical" },
+      { "id": "classical_2", "name": "Oxygen - Classics", "streamUrl": "https://oxygenmusic.hu:8443/Classic_320", "genre": "Classical" },
       { "id": "classical_3", "name": "BBC Radio 3", "streamUrl": "http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d96000.norewind.m3u8", "genre": "Classical" },
       { "id": "classical_4", "name": "Radio Populyarnaya Klassika", "streamUrl": "https://icecast-radioclassica.cdnvideo.ru/radioclassica", "genre": "Classical" },
       { "id": "classical_5", "name": "New England Public Radio Classical", "streamUrl": "http://amp.cesnet.cz:8000/cro-d-dur.flac", "genre": "Classical" },
