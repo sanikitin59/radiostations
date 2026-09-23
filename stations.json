@@ -110,16 +110,16 @@
   {
     "name": "Country",
     "stations": [
-      { "id": "country_1", "name": "Highway 23 Radio", "streamUrl": "https://streaming.live365.com/a30073", "genre": "Americana" },
-      { "id": "country_2", "name": "SomaFM: Folk Forward", "streamUrl": "https://ice1.somafm.com/folkfwd-128-mp3", "genre": "Folk" },
-      { "id": "country_3", "name": "SomaFM: Left Coast 70s", "streamUrl": "https://ice1.somafm.com/seventies-128-mp3", "genre": "Country Rock" },
+      { "id": "country_1", "name": "Highway 23 Radio", "streamUrl": "https://streaming.live365.com/a30073", "genre": "Country" },
+      { "id": "country_2", "name": "SomaFM: Folk Forward", "streamUrl": "https://ice1.somafm.com/folkfwd-128-mp3", "genre": "Country" },
+      { "id": "country_3", "name": "SomaFM: Left Coast 70s", "streamUrl": "https://ice1.somafm.com/seventies-128-mp3", "genre": "Country" },
       { "id": "country_4", "name": "ABC Country", "streamUrl": "https://mediaserviceslive.akamaized.net/hls/live/2038322/abccountry/masterhq.m3u8", "genre": "Country" },
       { "id": "country_5", "name": "Nashville FM", "streamUrl": "https://nashvillefm.stream-server.nl:8300/stream", "genre": "Country" },
-      { "id": "country_6", "name": "Sfliny - Country", "streamUrl": "https://ec4.yesstreaming.net:3790/;", "genre": "Holiday" },
-      { "id": "country_7", "name": "Radio Paradise: Mellow Mix", "streamUrl": "https://stream.radioparadise.com/mellow-192", "genre": "Americana" },
-      { "id": "country_8", "name": "Radio Paradise: Main Mix", "streamUrl": "https://stream.radioparadise.com/mp3-192", "genre": "Eclectic" },
-      { "id": "country_9", "name": "SomaFM: Digitalis", "streamUrl": "https://ice1.somafm.com/digitalis-128-mp3", "genre": "Folk Rock" },
-      { "id": "country_10", "name": "SomaFM: Covers", "streamUrl": "https://ice1.somafm.com/covers-128-mp3", "genre": "Covers" }
+      { "id": "country_6", "name": "Sfliny - Country", "streamUrl": "https://ec4.yesstreaming.net:3790/;", "genre": "Country" },
+      { "id": "country_7", "name": "Radio Paradise: Mellow Mix", "streamUrl": "https://stream.radioparadise.com/mellow-192", "genre": "Country" },
+      { "id": "country_8", "name": "Radio Paradise: Main Mix", "streamUrl": "https://stream.radioparadise.com/mp3-192", "genre": "Country" },
+      { "id": "country_9", "name": "SomaFM: Digitalis", "streamUrl": "https://ice1.somafm.com/digitalis-128-mp3", "genre": "Country" },
+      { "id": "country_10", "name": "SomaFM: Covers", "streamUrl": "https://ice1.somafm.com/covers-128-mp3", "genre": "Country" }
     ]
   },
   {
