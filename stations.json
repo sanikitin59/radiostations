@@ -131,8 +131,8 @@
       { "id": "classical_4", "name": "Radio Populyarnaya Klassika", "streamUrl": "https://icecast-radioclassica.cdnvideo.ru/radioclassica", "genre": "Classical" },
       { "id": "classical_5", "name": "New England Public Radio Classical", "streamUrl": "http://amp.cesnet.cz:8000/cro-d-dur.flac", "genre": "Classical" },
       { "id": "classical_6", "name": "RAI Radio Classica", "streamUrl": "https://radiotreclassica-live.akamaized.net/hls/live/2032595/radiotreclassica/radiotreclassica/playlist.m3u8", "genre": "Classical" },
-      { "id": "classical_7", "name": "Bartók Rádió", "streamUrl": "https://icast.connectmedia.hu/4741/mr3.mp3", "genre": "Classical Covers" },
-      { "id": "classical_8", "name": "Радио Орфей - Популярная классика", "streamUrl": "https://channels.fonotron.ru:8000/Chan_72_256.mp3", "genre": "Vocal Classical" },
+      { "id": "classical_7", "name": "Bartók Rádió", "streamUrl": "https://icast.connectmedia.hu/4741/mr3.mp3", "genre": "Classical" },
+      { "id": "classical_8", "name": "Радио Орфей - Популярная классика", "streamUrl": "https://channels.fonotron.ru:8000/Chan_72_256.mp3", "genre": "Classical" },
       { "id": "classical_9", "name": "Classical KUSC", "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/KUSCMP256.mp3", "genre": "Classical" },
       { "id": "classical_10", "name": "Adagio Radio", "streamUrl": "https://stream.tunerplay.com/radio/8010/adagioradio.mp3", "genre": "Classical" }
     ]
@@ -140,16 +140,16 @@
   {
     "name": "Christmas",
     "stations": [
-      { "id": "christmas_1", "name": "1.FM - Always-Christmas", "streamUrl": "https://strm112.1.fm/christmas_mobile_mp3", "genre": "Rock Christmas" },
-      { "id": "christmas_2", "name": "Happy Christmas Radio", "streamUrl": "https://radio1.streamserver.link:8070/hcr-mp3-hq", "genre": "Eclectic Christmas" },
+      { "id": "christmas_1", "name": "1.FM - Always-Christmas", "streamUrl": "https://strm112.1.fm/christmas_mobile_mp3", "genre": "Christmas" },
+      { "id": "christmas_2", "name": "Happy Christmas Radio", "streamUrl": "https://radio1.streamserver.link:8070/hcr-mp3-hq", "genre": "Christmas" },
       { "id": "christmas_3", "name": "Retro FM - Jõulud", "streamUrl": "https://edge03.cdn.bitflip.ee:8888/RetroJ6ulud", "genre": "Christmas" },
       { "id": "christmas_4", "name": "Mai Radio Christmas", "streamUrl": "https://ec6.yesstreaming.net:2220/stream", "genre": "Christmas" },
       { "id": "christmas_5", "name": "Real Christmas", "streamUrl": "https://realxmas.live24.gr/realxmas", "genre": "Christmas" },
       { "id": "christmas_6", "name": "Kissmas", "streamUrl": "https://netradio.live24.gr/kiss-web-xmas", "genre": "Christmas" },
       { "id": "christmas_7", "name": "Myrhael Angel - Christmas", "streamUrl": "https://strm112.1.fm/christmas_mobile_aac", "genre": "Christmas" },
       { "id": "christmas_8", "name": "Dansbandskanalen Julmusik", "streamUrl": "https://stream.dbmedia.se/dbkjulMP3", "genre": "Christmas" },
-      { "id": "christmas_9", "name": "181.FM: Christmas Country", "streamUrl": "https://listen.181fm.com/181-xcountry_128k.mp3", "genre": "Christmas Country" },
-      { "id": "christmas_10", "name": "181.FM: Christmas Standards", "streamUrl": "https://listen.181fm.com/181-xstandards_128k.mp3", "genre": "Christmas Standards" }
+      { "id": "christmas_9", "name": "181.FM: Christmas Country", "streamUrl": "https://listen.181fm.com/181-xcountry_128k.mp3", "genre": "Christmas" },
+      { "id": "christmas_10", "name": "181.FM: Christmas Standards", "streamUrl": "https://listen.181fm.com/181-xstandards_128k.mp3", "genre": "Christmas" }
     ]
   }
 ]
