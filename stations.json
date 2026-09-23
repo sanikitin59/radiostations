@@ -80,16 +80,16 @@
   {
     "name": "Electro",
     "stations": [
-      { "id": "electro_1", "name": "Record: Electro", "streamUrl": "https://radiorecord.hostingradio.ru/electro96.aacp", "genre": "Electro" },
+      { "id": "electro_1", "name": "Nightride FM Radio", "streamUrl": "https://stream.nightride.fm/nightride.mp3", "genre": "Electro" },
       { "id": "electro_2", "name": "Record: Techno", "streamUrl": "https://radiorecord.hostingradio.ru/techno96.aacp", "genre": "Techno" },
-      { "id": "electro_3", "name": "Record: House", "streamUrl": "https://radiorecord.hostingradio.ru/house96.aacp", "genre": "House" },
-      { "id": "electro_4", "name": "Record: Trance", "streamUrl": "https://radiorecord.hostingradio.ru/trance96.aacp", "genre": "Trance" },
-      { "id": "electro_5", "name": "Record: Dubstep", "streamUrl": "https://radiorecord.hostingradio.ru/dubstep96.aacp", "genre": "Dubstep" },
-      { "id": "electro_6", "name": "Record: Breaks", "streamUrl": "https://radiorecord.hostingradio.ru/breaks96.aacp", "genre": "Breaks" },
-      { "id": "electro_7", "name": "Record: Progressive", "streamUrl": "https://radiorecord.hostingradio.ru/progressive96.aacp", "genre": "Progressive" },
-      { "id": "electro_8", "name": "Record: Hardstyle", "streamUrl": "https://radiorecord.hostingradio.ru/hardstyle96.aacp", "genre": "Hardstyle" },
-      { "id": "electro_9", "name": "Record: Minimal", "streamUrl": "https://radiorecord.hostingradio.ru/minimal96.aacp", "genre": "Minimal" },
-      { "id": "electro_10", "name": "Record: Tech House", "streamUrl": "https://radiorecord.hostingradio.ru/techhouse96.aacp", "genre": "Tech House" }
+      { "id": "electro_3", "name": "SmoothLounge", "streamUrl": "https://smoothjazz.cdnstream1.com/2586_320.mp3", "genre": "House" },
+      { "id": "electro_4", "name": "Freak31", "streamUrl": "https://stream.31media.net/freak31-hq", "genre": "Trance" },
+      { "id": "electro_5", "name": "Record Vip House", "streamUrl": "https://radiorecord.hostingradio.ru/vip96.aacp", "genre": "Dubstep" },
+      { "id": "electro_6", "name": "BigTunes Radio - Trance", "streamUrl": "https://bigtunesradio.com/stream/trance.mp3", "genre": "Breaks" },
+      { "id": "electro_7", "name": "Nu Euphoria Trance Radio", "streamUrl": "https://radio.nueuphoria.com/listen/trance/radio.mp3", "genre": "Progressive" },
+      { "id": "electro_8", "name": "Gus Deephouse", "streamUrl": "https://stream.radiogoose.ru/listen/deep/play", "genre": "Hardstyle" },
+      { "id": "electro_9", "name": "House Music Radio", "streamUrl": "https://uk4-vn.mixstream.net/:8128/listen.mp3", "genre": "Minimal" },
+      { "id": "electro_10", "name": "BigTunes Radio - House", "streamUrl": "https://bigtunesradio.com/stream/house.mp3", "genre": "Tech House" }
     ]
   },
   {
