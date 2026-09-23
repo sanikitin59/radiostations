@@ -65,16 +65,16 @@
   {
     "name": "Hip-Hop",
     "stations": [
-      { "id": "hiphop_1", "name": "Record: Rap", "streamUrl": "https://radiorecord.hostingradio.ru/rap96.aacp", "genre": "Rap" },
-      { "id": "hiphop_2", "name": "Record: Gangsta", "streamUrl": "https://radiorecord.hostingradio.ru/gangsta96.aacp", "genre": "Gangsta Rap" },
-      { "id": "hiphop_3", "name": "Record: Hip-Hop", "streamUrl": "https://radiorecord.hostingradio.ru/hiphop96.aacp", "genre": "Hip-Hop" },
-      { "id": "hiphop_4", "name": "WJMR Jammin 98.3 FM", "streamUrl": "https://live.amperwave.net/manifest/saga-wjmrfmaac-hlsc2.m3u8", "genre": "Hip-Hop" },
-      { "id": "hiphop_5", "name": "Mai FM", "streamUrl": "https://digitalstreams-edge-lb.mediaworks.nz/mai_net/playlist.m3u8", "genre": "Hip-Hop" },
-      { "id": "hiphop_6", "name": "GotRadio: Hip Hop Stop", "streamUrl": "https://pureplay.cdnstream1.com/6041_64.aac/playlist.m3u8", "genre": "Hip-Hop" },
+      { "id": "hiphop_1", "name": "Record: Rap", "streamUrl": "https://radiorecord.hostingradio.ru/rap96.aacp", "genre": "Hip-Hop" },
+      { "id": "hiphop_2", "name": "Hot Block Radio", "streamUrl": "https://stream.mandragola.com/hotblockradio", "genre": "Hip-Hop" },
+      { "id": "hiphop_3", "name": "Base FM", "streamUrl": "https://icast.connectmedia.hu/5401/live.mp3", "genre": "Hip-Hop" },
+      { "id": "hiphop_4", "name": "Wow Music", "streamUrl": "https://stream.vyshka24.ru/wowhiphop", "genre": "Hip-Hop" },
+      { "id": "hiphop_5", "name": "On The Real", "streamUrl": "https://c2.radioboss.fm:8221/autodj", "genre": "Hip-Hop" },
+      { "id": "hiphop_6", "name": "La Kalle", "streamUrl": "https://radio.telemicro.com.do/lakallesantiago", "genre": "Hip-Hop" },
       { "id": "hiphop_7", "name": "1LIVE DIGGI", "streamUrl": "https://wdrhf.akamaized.net/hls/live/2027963/1livediggi/master.m3u8", "genre": "Hip-Hop" },
       { "id": "hiphop_8", "name": "FUEGO", "streamUrl": "https://stream.rcs.revma.com/myzzee8kwccwv", "genre": "Hip-Hop" },
       { "id": "hiphop_9", "name": "Mouv Radio", "streamUrl": "https://icecast.radiofrance.fr/mouv-hifi.aac", "genre": "Hip-Hop" },
-      { "id": "hiphop_10", "name": "SomaFM: Fluid", "streamUrl": "https://ice1.somafm.com/fluid-128-mp3", "genre": "Instrumental Hip-Hop" }
+      { "id": "hiphop_10", "name": "SomaFM: Fluid", "streamUrl": "https://ice1.somafm.com/fluid-128-mp3", "genre": "Hip-Hop" }
     ]
   },
   {
