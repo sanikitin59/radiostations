@@ -96,13 +96,13 @@
     "name": "Dance",
     "stations": [
       { "id": "dance_1", "name": "Record: Megamix", "streamUrl": "https://radiorecord.hostingradio.ru/mix96.aacp", "genre": "Dance" },
-      { "id": "dance_2", "name": "Record: Dance", "streamUrl": "https://radiorecord.hostingradio.ru/dance96.aacp", "genre": "Dance" },
+      { "id": "dance_2", "name": "Samba Hits Brazil", "streamUrl": "https://strm112.1.fm/samba_mobile_mp3", "genre": "Dance" },
       { "id": "dance_3", "name": "Record: Club", "streamUrl": "https://radiorecord.hostingradio.ru/club96.aacp", "genre": "Club Dance" },
       { "id": "dance_4", "name": "Record: Deep House", "streamUrl": "https://radiorecord.hostingradio.ru/deep96.aacp", "genre": "Deep House" },
-      { "id": "dance_5", "name": "Record: Tropical", "streamUrl": "https://radiorecord.hostingradio.ru/tropical96.aacp", "genre": "Tropical House" },
+      { "id": "dance_5", "name": "Hi On Line - Latin", "streamUrl": "https://mediaserv33.live-streams.nl:8034/stream", "genre": "Tropical House" },
       { "id": "dance_6", "name": "Radio m2o", "streamUrl": "https://streamcdnb3-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/play1.m3u8", "genre": "Dance" },
-      { "id": "dance_7", "name": "Q-Dance Radio", "streamUrl": "http://audio.true.nl/qdance-hard", "genre": "Hard Dance" },
-      { "id": "dance_8", "name": "BBC Radio 1 Dance", "streamUrl": "https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d96000.norewind.m3u8", "genre": "Dance" },
+      { "id": "dance_7", "name": "Soma FM - Boot Liquor", "streamUrl": "https://ice1.somafm.com/bootliquor-320-mp3", "genre": "Hard Dance" },
+      { "id": "dance_8", "name": "Kiss Collector", "streamUrl": "https://dr2101.ice.infomaniak.ch/dr2101.mp3", "genre": "Dance" },
       { "id": "dance_9", "name": "SomaFM: Beat Blender", "streamUrl": "https://ice1.somafm.com/beatblender-128-mp3", "genre": "Deep House" },
       { "id": "dance_10", "name": "SomaFM: The Trip", "streamUrl": "https://ice1.somafm.com/thetrip-128-mp3", "genre": "Progressive House" }
     ]
