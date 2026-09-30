@@ -19,47 +19,45 @@
   {
     "name": "Rock",
     "stations": [
-      { "id": "rock_1", "name": "The Beatles", "streamUrl": "https://pub0102.101.ru:8443/stream/trust/mp3/128/55", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/thebeatles.png" },
-      { "id": "rock_2", "name": "Paradise Rock Mix", "streamUrl": "https://stream.radioparadise.com/rock-320", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioparadiserockmix.png" },
-      { "id": "rock_3", "name": "Playlist Radio", "streamUrl": "https://radio13.pro-fhi.net/listen-pdpyrses-stream.mp3", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/playlistradio.png" },
-      { "id": "rock_4", "name": "Radio Record Rock", "streamUrl": "https://radiorecord.hostingradio.ru/rock96.aacp", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/recordrockradio.png" },
-      { "id": "rock_5", "name": "The Elvis Music Station Radio", "streamUrl": "https://streaming.shoutcast.com/tcb-the-elvis-music-station", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/theelvismusicstationradio.png" },
-      { "id": "rock_6", "name": "FM The Dunes", "streamUrl": "https://stream.x1023.fm/HD1", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/fmthedunes.png" },
-      { "id": "rock_7", "name": "Radiante FM", "streamUrl": "https://streamingcwsradio30.com:7036/", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiantefm.png" },
-      { "id": "rock_8", "name": "Rock FM", "streamUrl": "https://icast.connectmedia.hu/5301/live.mp3", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/rockfm.png" },
-      { "id": "rock_9", "name": "The Beatles y Art", "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOHNPAULGEORGERINGO_PYTAAC.aac", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/thebeatlesyart.png" },
-      { "id": "rock_10", "name": "Hag FM", "streamUrl": "https://hagfm.streamakaci.com/hagfm.mp3", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/hagfm.png" },
-      { "id": "rock_11", "name": "Rock FM - Metal", "streamUrl": "https://stream.skymedia.ee/live/rckmetal", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/rockfmmetal.png" }
+      { "id": "thebeatles", "name": "The Beatles", "streamUrl": "https://pub0102.101.ru:8443/stream/trust/mp3/128/55", "genre": "Rock" },
+      { "id": "radioparadiserockmix", "name": "Paradise Rock Mix", "streamUrl": "https://stream.radioparadise.com/rock-320", "genre": "Rock" },
+      { "id": "playlistradio", "name": "Playlist Radio", "streamUrl": "https://radio13.pro-fhi.net/listen-pdpyrses-stream.mp3", "genre": "Rock" },
+      { "id": "recordrockradio", "name": "Radio Record Rock", "streamUrl": "https://radiorecord.hostingradio.ru/rock96.aacp", "genre": "Rock" },
+      { "id": "theelvismusicstationradio", "name": "The Elvis Music Station Radio", "streamUrl": "https://streaming.shoutcast.com/tcb-the-elvis-music-station", "genre": "Rock" },
+      { "id": "fmthedunes", "name": "FM The Dunes", "streamUrl": "https://stream.x1023.fm/HD1", "genre": "Rock" },
+      { "id": "radiantefm", "name": "Radiante FM", "streamUrl": "https://streamingcwsradio30.com:7036/", "genre": "Rock" },
+      { "id": "rockfm", "name": "Rock FM", "streamUrl": "https://icast.connectmedia.hu/5301/live.mp3", "genre": "Rock" },
+      { "id": "thebeatlesyart", "name": "The Beatles y Art", "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOHNPAULGEORGERINGO_PYTAAC.aac", "genre": "Rock" },
+      { "id": "hagfm", "name": "Hag FM", "streamUrl": "https://hagfm.streamakaci.com/hagfm.mp3", "genre": "Rock" },
+      { "id": "rockfmmetal", "name": "Rock FM - Metal", "streamUrl": "https://stream.skymedia.ee/live/rckmetal", "genre": "Rock" }
     ]
   },
   {
     "name": "Pop",
     "stations": [
-      { "id": "pop_1", "name": "Italia On Air", "streamUrl": "https://strm112.1.fm/italiaonair_mobile_mp3", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/italiaonair.png" },
-      { "id": "pop_2", "name": "Radio Bingo", "streamUrl": "https://audiostreamen.nl/radiobingo256", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiobingo.png" },
-      { "id": "pop_3", "name": "Roundand Sound Radio", "streamUrl": "https://stream.roundandsound.nl/;", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/roundandsoundradio.png" },
-      { "id": "pop_4", "name": "Mistral FM", "streamUrl": "https://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/mistralfm.png" },
-      { "id": "pop_5", "name": "Los 40", "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_CASTELLON.mp3", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/los40.png" },
-      { "id": "pop_6", "name": "Radio Monte Carlo", "streamUrl": "https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiomontecarlo.png" },
-      { "id": "pop_7", "name": "Radio City", "streamUrl": "https://stream1.radiocity.si/DevaRelay", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiocity.png" },
-      { "id": "pop_8", "name": "Lux Radio", "streamUrl": "https://live9.avf.ch/lux_backup", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/luxradio.png" },
-      { "id": "pop_9", "name": "Hi FM", "streamUrl": "https://listen-hifmtemp.sharp-stream.com/hifmhigh.mp3", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/hifm.png" },
-      { "id": "pop_10", "name": "Radio Idea", "streamUrl": "https://radio.latuatv.eu:1320/stream", "genre": "Pop", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioidea.png" }
+      { "id": "italiaonair", "name": "Italia On Air", "streamUrl": "https://strm112.1.fm/italiaonair_mobile_mp3", "genre": "Pop" },
+      { "id": "radiobingo", "name": "Radio Bingo", "streamUrl": "https://audiostreamen.nl/radiobingo256", "genre": "Pop" },
+      { "id": "roundandsoundradio", "name": "Roundand Sound Radio", "streamUrl": "https://stream.roundandsound.nl/;", "genre": "Pop" },
+      { "id": "mistralfm", "name": "Mistral FM", "streamUrl": "https://mistralfmaubagne.ice.infomaniak.ch/mistralfmaubagne-128.mp3", "genre": "Pop" },
+      { "id": "los40", "name": "Los 40", "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ASO_CASTELLON.mp3", "genre": "Pop" },
+      { "id": "radiomontecarlo", "name": "Radio Monte Carlo", "streamUrl": "https://hls-01-montecarlo.hostingradio.ru/montecarlo/playlist.m3u8", "genre": "Pop" },
+      { "id": "radiocity", "name": "Radio City", "streamUrl": "https://stream1.radiocity.si/DevaRelay", "genre": "Pop" },
+      { "id": "luxradio", "name": "Lux Radio", "streamUrl": "https://live9.avf.ch/lux_backup", "genre": "Pop" },
+      { "id": "hifm", "name": "Hi FM", "streamUrl": "https://listen-hifmtemp.sharp-stream.com/hifmhigh.mp3", "genre": "Pop" },
+      { "id": "radioidea", "name": "Radio Idea", "streamUrl": "https://radio.latuatv.eu:1320/stream", "genre": "Pop" }
     ]
   },
   {
     "name": "Jazz",
     "stations": [
-      { "id": "jazz_1", "name": "Sun Jazz", "streamUrl": "https://diffusion.lafrap.fr/sun-jazz.mp3", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/sunjazz.png" },
-      { "id": "jazz_2", "name": "Sonic Universe", "streamUrl": "https://ice1.somafm.com/sonicuniverse-128-mp3", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/sonicuniverse.png" },
-      { "id": "jazz_3", "name": "Illinois Street Lounge", "streamUrl": "https://ice1.somafm.com/illstreet-128-mp3", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/illinoisstreetlounge.png" },
-      { "id": "jazz_4", "name": "Jazz FM", "streamUrl": "https://am.radioaurora.am/jz", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/jazzfm.png" },
-      { "id": "jazz_5", "name": "Jazz Love", "streamUrl": "https://ec1.yesstreaming.net:2940/stream", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/jazzlove.png" },
-      { "id": "jazz_6", "name": "Jazz 24", "streamUrl": "https://knkx-live-a.edge.audiocdn.com/6285_256k", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/jazz24.png" },
-      { "id": "jazz_7", "name": "Swing FM", "streamUrl": "https://swingfm.ice.infomaniak.ch/swingfm-128.mp3", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/swingfm.png" },
-      { "id": "jazz_8", "name": "Jazz Vesp", "streamUrl": "https://ec1.yesstreaming.net:1365/stream", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/jazzvesp.png" },
-      { "id": "jazz_9", "name": "Jazztice", "streamUrl": "https://aska.ru-hoster.com:8061/stream", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/jazztice.png" },
-      { "id": "jazz_10", "name": "Jazz Radio Classical", "streamUrl": "https://ec1.yesstreaming.net:2900/stream", "genre": "Jazz", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/jazzradioclassical.png" }
+      { "id": "sunjazz", "name": "Sun Jazz", "streamUrl": "https://diffusion.lafrap.fr/sun-jazz.mp3", "genre": "Jazz" },
+	  { "id": "jazzvesp", "name": "Jazz Vesp", "streamUrl": "https://ec1.yesstreaming.net:1365/stream", "genre": "Jazz" },
+      { "id": "jazztice", "name": "Jazztice", "streamUrl": "https://aska.ru-hoster.com:8061/stream", "genre": "Jazz" },
+      { "id": "illinoisstreetlounge", "name": "Illinois Street Lounge", "streamUrl": "https://ice1.somafm.com/illstreet-128-mp3", "genre": "Jazz" },
+      { "id": "jazzlove", "name": "Jazz Love", "streamUrl": "https://ec1.yesstreaming.net:2940/stream", "genre": "Jazz" },
+      { "id": "jazz24", "name": "Jazz 24", "streamUrl": "https://knkx-live-a.edge.audiocdn.com/6285_256k", "genre": "Jazz" },
+      { "id": "swingfm", "name": "Swing FM", "streamUrl": "https://swingfm.ice.infomaniak.ch/swingfm-128.mp3", "genre": "Jazz" },
+      { "id": "jazzradioclassical", "name": "Jazz Radio Classical", "streamUrl": "https://ec1.yesstreaming.net:2900/stream", "genre": "Jazz" }
     ]
   },
   {
