@@ -2,18 +2,18 @@
   {
     "name": "Russia",
     "stations": [
-      { "id": "ru_1", "name": "Старый портфель", "streamUrl": "https://lk.castnow.ru:8100/oldbrief-320.mp3", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/staryjportfel.png" },
-      { "id": "ru_2", "name": "Всесоюзное радио", "streamUrl": "https://stream.cassiopeia-station.ru:1045/stream", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/vsesoyuznoeradio.png" },
-      { "id": "ru_3", "name": "Дорожное радио", "streamUrl": "https://dorognoe.hostingradio.ru/radio", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/dorognoeradio.png" },
-      { "id": "ru_4", "name": "Европа плюс", "streamUrl": "https://radio.promedia.ru/europa-alushta", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/europaplus.png" },
-      { "id": "ru_5", "name": "Шансон", "streamUrl": "https://hls-01-chanson.hostingradio.ru/chanson/playlist.m3u8", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/shanson.png" },
-      { "id": "ru_6", "name": "Радио Ретро FM", "streamUrl": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioretrofm.png" },
-      { "id": "ru_7", "name": "Радио Record", "streamUrl": "https://air.unmixed.ru/record320", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiorecord.png" },
-      { "id": "ru_8", "name": "Русское Радио", "streamUrl": "https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/russkoeradio.png" },
-      { "id": "ru_9", "name": "Радио Маяк", "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiomayak.png" },
-      { "id": "ru_10", "name": "Радио Эрмитаж", "streamUrl": "https://rusradio.hostingradio.ru/hermitage128.mp3", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radioermitazh.png" },
-	  { "id": "ru_11", "name": "Радио Зенит", "streamUrl": "https://go-audio.toya.net.pl/269", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiozenit.png" },
-	  { "id": "ru_12", "name": "Наше Радио", "streamUrl": "https://nashe.streamr.ru/nashe-128.mp3", "genre": "Русское радио", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/nasheradio.png" }
+      { "id": "staryjportfel", "name": "Старый портфель", "streamUrl": "https://lk.castnow.ru:8100/oldbrief-320.mp3", "genre": "Русское радио" },
+      { "id": "vsesoyuznoeradio", "name": "Всесоюзное радио", "streamUrl": "https://stream.cassiopeia-station.ru:1045/stream", "genre": "Русское радио" },
+      { "id": "dorognoeradio", "name": "Дорожное радио", "streamUrl": "https://dorognoe.hostingradio.ru/radio", "genre": "Русское радио" },
+      { "id": "europaplus", "name": "Европа плюс", "streamUrl": "https://radio.promedia.ru/europa-alushta", "genre": "Русское радио" },
+      { "id": "shanson", "name": "Шансон", "streamUrl": "https://hls-01-chanson.hostingradio.ru/chanson/playlist.m3u8", "genre": "Русское радио" },
+      { "id": "radioretrofm", "name": "Радио Ретро FM", "streamUrl": "https://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3", "genre": "Русское радио" },
+      { "id": "radiorecord", "name": "Радио Record", "streamUrl": "https://air.unmixed.ru/record320", "genre": "Русское радио" },
+      { "id": "russkoeradio", "name": "Русское Радио", "streamUrl": "https://hls-01-rusradio.hostingradio.ru/rusradio/playlist.m3u8", "genre": "Русское радио" },
+      { "id": "radiomayak", "name": "Радио Маяк", "streamUrl": "https://icecast-vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps", "genre": "Русское радио" },
+      { "id": "radioermitazh", "name": "Радио Эрмитаж", "streamUrl": "https://rusradio.hostingradio.ru/hermitage128.mp3", "genre": "Русское радио" },
+      { "id": "radiozenit", "name": "Радио Зенит", "streamUrl": "https://go-audio.toya.net.pl/269", "genre": "Русское радио" },
+      { "id": "nasheradio", "name": "Наше Радио", "streamUrl": "https://nashe.streamr.ru/nashe-128.mp3", "genre": "Русское радио" }
     ]
   },
   {
@@ -28,7 +28,7 @@
       { "id": "rock_7", "name": "Radiante FM", "streamUrl": "https://streamingcwsradio30.com:7036/", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/radiantefm.png" },
       { "id": "rock_8", "name": "Rock FM", "streamUrl": "https://icast.connectmedia.hu/5301/live.mp3", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/rockfm.png" },
       { "id": "rock_9", "name": "The Beatles y Art", "streamUrl": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOHNPAULGEORGERINGO_PYTAAC.aac", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/thebeatlesyart.png" },
-	  { "id": "rock_10", "name": "Hag FM", "streamUrl": "https://hagfm.streamakaci.com/hagfm.mp3", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/hagfm.png" },
+      { "id": "rock_10", "name": "Hag FM", "streamUrl": "https://hagfm.streamakaci.com/hagfm.mp3", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/hagfm.png" },
       { "id": "rock_11", "name": "Rock FM - Metal", "streamUrl": "https://stream.skymedia.ee/live/rckmetal", "genre": "Rock", "logoUrl": "https://cdn.jsdelivr.net/gh/sanikitin59/radio-logos@main/rockfmmetal.png" }
     ]
   },
@@ -109,9 +109,9 @@
   },
   {
     "name": "Country",
-    "stations": [     
+    "stations": [
       { "id": "country_1", "name": "SomaFM: Folk Forward", "streamUrl": "https://ice1.somafm.com/folkfwd-128-mp3", "genre": "Country" },
-	  { "id": "country_2", "name": "I-Turn Radio", "streamUrl": "https://live.i-turnradio.nl/320", "genre": "Country" },
+      { "id": "country_2", "name": "I-Turn Radio", "streamUrl": "https://live.i-turnradio.nl/320", "genre": "Country" },
       { "id": "country_3", "name": "SomaFM: Left Coast 70s", "streamUrl": "https://ice1.somafm.com/seventies-128-mp3", "genre": "Country" },
       { "id": "country_4", "name": "ABC Country", "streamUrl": "https://mediaserviceslive.akamaized.net/hls/live/2038322/abccountry/masterhq.m3u8", "genre": "Country" },
       { "id": "country_5", "name": "Nashville FM", "streamUrl": "https://nashvillefm.stream-server.nl:8300/stream", "genre": "Country" },
